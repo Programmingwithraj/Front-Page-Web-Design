@@ -117,3 +117,11 @@ a{
     font-family: 'Abril Fatface', cursive;
 }
 
+.booking-area{
+    background: var(--bg-white);
+    box-shadow: 0.625rem 0.9375rem 0 rgb(0 0 0 / 10%);
+    margin-top: -4rem;
+    z-index: 999999;
+    position: relative;
+    padding: 3.125rem 1.875rem ;
+}
